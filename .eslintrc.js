@@ -8,6 +8,7 @@ module.exports = {
     "plugin:jest/style",
     "plugin:testing-library/react",
     "next/core-web-vitals",
+    "next",
   ],
   parser: "@typescript-eslint/parser",
   parserOptions: {
